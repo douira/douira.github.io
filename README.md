@@ -35,6 +35,7 @@ The text serves documentation of the implemented theoretical concepts, but doesn
 ## Links
 
 - [My GitHub Profile](https://github.com/douira/)
+- Contact by email: `me at-sign douira.dev`
 
 ## Donate
 

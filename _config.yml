@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: douira
-# description: 
+description: My personal website
 
 logo: /assets/img/profile picture.png
 show_downloads: false
