@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper > footer:nth-child(3) > p:nth-child(1), .view {
+	display: none;
+}
