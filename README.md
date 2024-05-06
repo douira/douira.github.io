@@ -2,12 +2,12 @@
 
 My internet name is douira.
 
-I very recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and am now looking for a job. Let me know if you have something exciting! I'm interested in algorithm development, complexity theory, generative art, game technology, and interface design.
+I very recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and **am now looking for a job**. Let me know if you have something exciting! I'm interested in algorithm development, complexity theory, generative art, game technology, and interface design.
 
 ## My Projects
 
 - My Master's thesis: **Implementation and Analysis of Geometric Algorithms for Translucency Sorting in Minecraft**
-- The Resolution Editor is a document management and synchronized editing software for use at MUN conferences like [MUNOL](https://munol.org/).
+- The Resolution Editor is a document management and synchronized editing software for use at MUN conferences like [MUNOL](https://munol.org/). It is also used at RIMUN and MUNoH.
 - [glsl-transformer](https://github.com/IrisShaders/glsl-transformer): A GLSL program transformation Java library based on ANTLR 4, used in [Iris](https://github.com/IrisShaders/Iris/).
 
 ## Master's Thesis
