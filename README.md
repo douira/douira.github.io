@@ -16,6 +16,10 @@ I very recently completed my Master's of Computer Science at the [University of 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A27Y8FJ)
 
+## Links
+
+- [GitHub](https://github.com/douira/)
+
 ## This page
 
 ...is pretty bare bones. I'll add some more to it and make it nicer in the future. Jekyll is very cool though!
