@@ -32,6 +32,10 @@ If the math is actually wrong somewhere, that would be good to know but so far n
 
 The text serves documentation of the implemented theoretical concepts, but doesn't go into many implementation details. These two PRs [#2016](https://github.com/CaffeineMC/sodium-fabric/pull/2016) [#2352](https://github.com/CaffeineMC/sodium-fabric/pull/2352) are the implementation of translucency sorting in [Sodium](https://github.com/CaffeineMC/sodium-fabric).
 
+#### Errata
+
+Figure 5.2 and the associated caption wrongly state that no instances of aligned unsortable yet non-intersecting geometry exist. Aligning the quads in Figure 2.2 to the axes if they are sufficiently long seems to produce a counter-example. This has no effect on other statements made throughout the text.
+
 ## Links
 
 - [My GitHub Profile](https://github.com/douira/)
