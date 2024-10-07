@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: douira
-description: My personal website
+description: My personal website\nHe/Him 🏳️‍🌈
 
 logo: /assets/img/profile picture.jpg
 show_downloads: false
