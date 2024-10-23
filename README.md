@@ -2,11 +2,12 @@
 
 My internet name is douira.
 
-I recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and **am now looking for a job**. Let me know if you have something exciting! I'm interested in algorithm development, computational geometry, complexity theory, generative art, game technology, and interface design. Most of my work is in either Java or Typescript.
+I recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and **am now looking for a job**. Let me know if you have something exciting! I'm interested in algorithm development, computational geometry, computer graphics, complexity theory, generative art, game technology, and interface design. Most of my work is in either Java or Typescript.
 
 ## My Projects
 
 - My Master's thesis: **Implementation and Analysis of Geometric Algorithms for Translucency Sorting in Minecraft**
+- [Ongoing contibutions](https://github.com/CaffeineMC/sodium-fabric/pulls?q=is%3Apr+author%3Adouira) to the Sodium Minecraft optimization mod
 - The Resolution Editor is a document management and synchronized editing software for use at MUN conferences like [MUNOL](https://munol.org/). It is also used at RIMUN and MUNoH.
 - [glsl-transformer](https://github.com/IrisShaders/glsl-transformer): A GLSL program transformation Java library based on ANTLR 4, used in [Iris](https://github.com/IrisShaders/Iris/).
 
