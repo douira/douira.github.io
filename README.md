@@ -27,7 +27,7 @@ Ordering translucent quadrilaterals (quads) by descending depth produces a corre
 
 </details>
 <br>
-You can download the [thesis text](/assets/document/douira-master-thesis.pdf) and accompanying [presentation](/assets/document/douira-master-thesis-presentation.pdf).
+You can download the [thesis text](/assets/document/douira-master-thesis.pdf) and accompanying [presentation](/assets/document/douira-master-thesis-presentation.pdf). There's also an [edition](/assets/document/presentation-blanketcon25.pdf) of the presentation made for a Minecraft-centric audience at [Blanketcon 25](https://modfest.net/bc25).
 
 If the math is actually wrong somewhere, that would be good to know but so far nobody has noticed any issues. If you want to cite this in your own scientific work: you probably shouldn't, because it's not a journal-published work, but please get in contact with me in that case. Usual copyright applies. Let me know if you have any questions!
 
