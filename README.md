@@ -2,7 +2,7 @@
 
 My internet name is douira.
 
-I recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and **am now looking for a job**. Let me know if you have something exciting! I'm interested in algorithm development, computational geometry, computer graphics, complexity theory, generative art, game technology, and interface design. Most of my work is in either Java or Typescript.
+I recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and now work at the [Institute for Software Engineering and Programming Languages](https://www.isp.uni-luebeck.de/) as a doctoral student. I'm interested in algorithm development, computational geometry, computer graphics, complexity theory, generative art, game technology, and interface design. Most of my personal projects are is in either Java or Typescript.
 
 ## My Projects
 
