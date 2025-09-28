@@ -7,7 +7,7 @@ I recently completed my Master's of Computer Science at the [University of Lübe
 ## My Projects
 
 - My Master's thesis: **Implementation and Analysis of Geometric Algorithms for Translucency Sorting in Minecraft**
-- [Ongoing contibutions](https://github.com/CaffeineMC/sodium-fabric/pulls?q=is%3Apr+author%3Adouira) to the Sodium Minecraft optimization mod
+- [Ongoing contibutions](https://github.com/CaffeineMC/sodium/pulls?q=is%3Apr+author%3Adouira+sort%3Aupdated-desc) to the Sodium Minecraft optimization mod
 - A document management and synchronized editing software for use at MUN conferences like [MUNOL](https://munol.org/). It is also used at RIMUN and MUNoH.
 - [glsl-transformer](https://github.com/IrisShaders/glsl-transformer): A GLSL program transformation Java library based on ANTLR 4, used in [Iris](https://github.com/IrisShaders/Iris/).
 
