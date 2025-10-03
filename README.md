@@ -2,13 +2,13 @@
 
 My internet name is douira.
 
-I recently completed my Master's of Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) and now work at the [Institute for Software Engineering and Programming Languages](https://www.isp.uni-luebeck.de/) as a doctoral student. I'm interested in algorithm development, computational geometry, computer graphics, complexity theory, generative art, game technology, and interface design. Most of my personal projects are is in either Java or Typescript.
+I'm currently doing my doctorate in Computer Science at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html). My interests include algorithm development, computational geometry, computer graphics, complexity theory, generative art, game technology, and interface design. Most of my personal projects are in either Java or Typescript.
 
 ## My Projects
 
 - My Master's thesis: **Implementation and Analysis of Geometric Algorithms for Translucency Sorting in Minecraft**
-- [Ongoing contibutions](https://github.com/CaffeineMC/sodium/pulls?q=is%3Apr+author%3Adouira+sort%3Aupdated-desc) to the Sodium Minecraft optimization mod
-- A document management and synchronized editing software for use at MUN conferences like [MUNOL](https://munol.org/). It is also used at RIMUN and MUNoH.
+- [Ongoing contributions](https://github.com/CaffeineMC/sodium/pulls?q=is%3Apr+author%3Adouira+sort%3Aupdated-desc) to the Sodium Minecraft graphics optimization mod
+- Document management and editing software deployed at MUN conferences like [MUNOL](https://munol.org/).
 - [glsl-transformer](https://github.com/IrisShaders/glsl-transformer): A GLSL program transformation Java library based on ANTLR 4, used in [Iris](https://github.com/IrisShaders/Iris/).
 
 ## Master's Thesis
